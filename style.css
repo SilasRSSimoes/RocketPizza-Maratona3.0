@@ -15,6 +15,20 @@ h1 {
     font-size: 35px;
 }
 
+h1, h2, h3, .price {
+    text-transform: uppercase;
+    color: antiquewhite;
+}
+
+h1, h2 {
+    color: black;
+
+}
+p {
+    color: antiquewhite;
+    line-height: 25px;
+}
+
 
 
 /* Cabeçalho */
@@ -74,8 +88,6 @@ section ul {
     padding-top: 5px;
     
 }
-
-
 
 /* Listas  */
 ul{
